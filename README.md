@@ -4,7 +4,7 @@ A clean and functional calculator application built using **React.js**, **Vite**
 
 ## 🔗 Live Demo
 
-[Live Demo Link](#)  
+[Live Demo Link](https://kaustubh-dalvi1001.github.io/React-Calculator-App/)  
 
 ---
 

@@ -1,0 +1,11 @@
+.display {
+  padding: 1vmin;
+  margin: 3vmin;
+  width: 90%;
+  border-radius: 1vmin;
+  border: none;
+  outline: none;
+  text-align: right;
+  font-size: 3vmin;
+  box-shadow: inset 2px 2px 5px 2px rgba(0, 0, 0, 0.5);
+}

@@ -92,7 +92,7 @@ react-calculator-app/
 
 - [LinkedIn](https://www.linkedin.com/in/kaustubh-dalvi-0431662a8)  
 - [GitHub](https://github.com/Kaustubh-Dalvi1001)  
-- 📧 kaustubhdalvi1001@gmail.com
+- 📧 kaustubhdalvi1002@gmail.com
 
 ---
 
